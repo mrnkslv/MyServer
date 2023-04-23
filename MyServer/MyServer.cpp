@@ -5,7 +5,6 @@
 #include <fstream>
 #include <string>
 #include <experimental/filesystem>
-#include <benchmark/benchmark.h>
 
 #pragma warning (disable:4996)
 
